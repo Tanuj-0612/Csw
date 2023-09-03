@@ -1,0 +1,44 @@
+.top-right-links {
+    text-align: right; /* Align the content to the right */
+}
+.image{
+   width:431px;
+   height:163px; 
+}
+.centered-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh; /* Optionally set a height to center vertically within the viewport */
+  }
+  #ip1 {
+    border-radius: 18px;
+    padding: 20px; 
+    width: 669px;
+    height: 15px;    
+}
+form {
+    text-align: center;
+    margin-top: 4px;
+}
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+input[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4285f4;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.image img {
+    max-width: 100%;
+    height: auto;
+}
+#imgi{
+    margin-top: 66px;
+}
